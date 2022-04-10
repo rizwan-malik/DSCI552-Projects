@@ -23,3 +23,6 @@ Implement the Back Propagation algorithm for Feed Forward Neural Networks to lea
 ## [Homework 6 - Support Vector Machines](https://github.com/rizwan-malik/DSCI552-Projects/tree/main/HW6)
 - Find the fattest margin line that separates the points in **linsep.txt**. Using a Quadratic Programming solver report the equation of the line as well as the support vectors.
 - Using a kernel function along with the same Quadratic Programming solver, find the equation of a curve that separates the points in **nonlinsep.txt**. Report the kernel function as well as the support vectors.
+
+## [Homework 7 - Hidden Markon Models](https://github.com/rizwan-malik/DSCI552-Projects/new/main/HW7)
+Use a Hidden Markov Model to figure out the most likely sequence of values given an observation sequence. At timestep *t* value *v* can be any value from a given domain space.
