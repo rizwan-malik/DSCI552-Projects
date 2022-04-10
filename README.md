@@ -20,4 +20,6 @@ Implement the **K-means** algorithm AND the **Expectation Maximization** algorit
 ## [Homework 5 - Feed Forward Neural Networks](https://github.com/rizwan-malik/DSCI552-Projects/tree/main/HW5)
 Implement the Back Propagation algorithm for Feed Forward Neural Networks to learn the down gestures from training instances in the given dataset.
 
-## Homework 6 - Support Vector Machines
+## [Homework 6 - Support Vector Machines](https://github.com/rizwan-malik/DSCI552-Projects/tree/main/HW6)
+- Find the fattest margin line that separates the points in **linsep.txt**. Using a Quadratic Programming solver report the equation of the line as well as the support vectors.
+- Using a kernel function along with the same Quadratic Programming solver, find the equation of a curve that separates the points in **nonlinsep.txt**. Report the kernel function as well as the support vectors.
